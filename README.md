@@ -4,7 +4,7 @@ This project aims to solve the problem of needing multiple database visualizers 
 
 Having a MySQL database, one needs to use the WorkBench software. Similar to Oracle. Similar to PostgreSQL. Similar to MongoDB.
 
-This project would allow the user to have a single place to visualize the databases by passing their credentials and other necessary information like port numbers, paths, and so on.
+This project would allow the user to have a single place to visualize the databases in a tabular format by passing their credentials and other necessary information like port numbers, paths, and so on.
 
 Initially, the project will start with MySQL.
 
